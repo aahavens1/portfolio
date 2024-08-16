@@ -1,6 +1,7 @@
+Project is in development phase.
 <a name="readme-top"></a>
 
-# A Modern UI/UX Portfolio using Next.JS
+# A Modern Frontend Portfolio using Next.JS
 
 ![A Modern UI/UX Portfolio using Next.JS](/.github/images/img_main.png "A Modern UI/UX Portfolio using Next.JS")
 
